@@ -1,0 +1,15 @@
+name = "hex-truncated-series"
+defaultTargets = ["HexTruncatedSeries"]
+
+leanOptions = [
+  { name = "doc.verso", value = true },
+  { name = "doc.verso.suggestions", value = false },
+]
+
+[[require]]
+name = "HexBasic"
+git = "https://github.com/leanprover/hex-basic.git"
+rev = "main"
+
+[[lean_lib]]
+name = "HexTruncatedSeries"
