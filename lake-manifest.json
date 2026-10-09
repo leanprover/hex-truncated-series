@@ -10,7 +10,7 @@
       "rev": "c5b9f3befd306eba663345c8d0bd3a252e3b803e",
       "name": "HexBasic",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "v0.8.0",
+      "inputRev": "v0.9.0",
       "inherited": false,
       "configFile": "lakefile.toml"
     }
